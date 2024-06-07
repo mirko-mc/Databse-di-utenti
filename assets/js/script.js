@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let count = 0;
     /** popolo il main con la tabella di tutti gli utenti */
     MAIN.innerHTML += `
-      <table class="table table-striped">
+      <table class="table table-striped table-dark">
         <thead>
           <tr>
             <th scope="col">#</th>
